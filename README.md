@@ -1,2 +1,2 @@
-# The MathDB Catalogue
+# The MathDB Catalog
 
