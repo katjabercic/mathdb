@@ -1,4 +1,4 @@
-# The MathDB Catalogue 2.0
+# The MathDB Catalog 2.0
 
 ## History
 
